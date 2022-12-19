@@ -1,0 +1,15 @@
+{
+  "name": "ssh-deploy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "compressing": "^1.6.2",
+    "ssh2": "^1.11.0"
+  }
+}
